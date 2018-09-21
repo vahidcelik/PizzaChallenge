@@ -1,6 +1,7 @@
 /.vs/*
 /OloPizza/obj/*
-/OloPizza/bin/*
+/OloPizza/bin/Debug/*
+/OloPizza/bin/Release/*
 
 !/OloPizza/bin/Debug/pizzas.json
 !/OloPizza/bin/Release/pizzas.json
